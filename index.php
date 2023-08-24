@@ -12,6 +12,9 @@
 
         <!-- ! FONTS -->
         
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
     
         <!-- ! BOOTSTRAP -->
 
@@ -22,7 +25,6 @@
 
         <link rel="stylesheet" href="./css/reset.css">
         <link rel="stylesheet" href="./css/general.css">
-        <link rel="stylesheet" href="./css/framework.css">
         <link rel="stylesheet" href="./css/style.css">
 
         <!-- ! VUE JS -->
@@ -33,8 +35,8 @@
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.4.0/axios.min.js" integrity="sha512-uMtXmF28A2Ab/JJO2t/vYhlaa/3ahUOgj1Zf27M5rOo8/+fcTUVH0/E0ll68njmjrLqOBjXM3V9NiPFL5ywWPQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-        <title> Inserisci titolo della pagina </title>
-        
+        <title> PHP Dischi JSON </title>
+       
     </head>
 
     <body>
@@ -59,7 +61,7 @@
         </footer>
 
         <!-- ! Java Script -->
-        <script type="text/javascript" src="./js/script.js"></script>
+        <script type="text/javascript" src="./assets/app.js"></script>
 
         <!-- ! Bootstrap JS -->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
