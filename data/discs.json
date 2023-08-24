@@ -1,0 +1,59 @@
+[
+    {
+        "id": 1,
+        "title": "Blue Train",
+        "artist": "John Coltrane",
+        "cover": "https://m.media-amazon.com/images/I/41n3GsabcQL._UF1000,1000_QL80_.jpg" ,
+        "year": 1957
+    },
+    {
+        "id": 2,
+        "title": "Kind Of Blue",
+        "artist": "Miles Davies",
+        "cover": "https://i.guim.co.uk/img/media/0f5a2d6ea401b7281fc050a8bbd57da6b5e18e5f/0_0_3556_3556/master/3556.jpg?width=700&quality=85&auto=format&fit=max&s=4be63bd5ea4dae601ed124031f90e434",
+        "year": 1959
+    },
+    {
+        "id": 3,
+        "title": "The Big Beat",
+        "artist": "Art Blakey & The Jazz Messengers",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/a/a6/Art_big_beat.jpg" ,
+        "year": 1960
+    },
+    {
+        "id": 4,
+        "title": "Head Hunters",
+        "artist": "Herbie Hancock",
+        "cover": "https://e.snmc.io/i/1200/s/ab1a1334e2e66518c1721bd1e159b031/3620061" ,
+        "year": 1973
+    },
+    {
+        "id": 5,
+        "title": "Strange Fruit",
+        "artist": "Nina Simone",
+        "cover": "https://www.thevinylfactory.com/wp-content/uploads/2015/09/Strange-fruit.jpg" ,
+        "year": 1965
+    },
+    {
+        "id": 6,
+        "title": "Underground",
+        "artist": "Thelonious Monk",
+        "cover": "https://i.discogs.com/70CQy31jOoEadTe60QEYTOTT2eJnvOv1o-XKDyw4kgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MTAtMTMwOTE3MDM5/OC5qcGVn.jpeg" ,
+        "year": 1967
+    },
+    {
+        "id": 7,
+        "title": "Jaco Pastorious",
+        "artist": "Jaco Pastorious",
+        "cover": "https://i1.sndcdn.com/artworks-000588113234-0d9qx7-t500x500.jpg" ,
+        "year": 1976
+    },
+    {
+        "id": 8,
+        "title": "Getz/Gilberto",
+        "artist": "Sten Getz & Joao Gilberto feat. Antonio Carlos Jobim",
+        "cover": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/128/128631/128631.jpeg?filename=1000x1000bb-60%20(3).jpg" ,
+        "year": 1964
+    }
+    
+]
