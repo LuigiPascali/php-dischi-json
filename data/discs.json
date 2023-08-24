@@ -4,6 +4,7 @@
         "title": "Blue Train",
         "artist": "John Coltrane",
         "cover": "https://m.media-amazon.com/images/I/41n3GsabcQL._UF1000,1000_QL80_.jpg" ,
+        "description": "Blue Train è il secondo album discografico di John Coltrane pubblicato nel 1957. Viene considerato uno dei capolavori del genere jazz.[5][6][7][8] L'album è stato inserito nella Grammy Hall of Fame nel 1999.[9] Durante un'intervista nel 1960, lo stesso Coltrane si riferì all'album definendolo il suo preferito fra tutti quelli che aveva inciso sino ad allora.Tutti i pezzi furono composti da Coltrane, con l'eccezione di I'm Old Fashioned, di Jerome Kern e Johnny Mercer. La traccia che dà il titolo all'album, un blues in tonalità minore (che cambia in maggiore nel corso degli assoli), contiene un assolo di Coltrane che è considerato uno dei suoi migliori del periodo hard bop.",
         "year": 1957
     },
     {
@@ -11,6 +12,7 @@
         "title": "Kind Of Blue",
         "artist": "Miles Davies",
         "cover": "https://i.guim.co.uk/img/media/0f5a2d6ea401b7281fc050a8bbd57da6b5e18e5f/0_0_3556_3556/master/3556.jpg?width=700&quality=85&auto=format&fit=max&s=4be63bd5ea4dae601ed124031f90e434",
+        "description": "Kind of Blue è un album di Miles Davis pubblicato nel 1959. Viene considerato uno dei massimi capolavori del jazz oltre a essere ritenuto il disco di jazz più venduto di sempre con 4 milioni di copie e uno dei primi esempi di modal jazz.[8][9][10] Nel 1992 vinse il Grammy Hall of Fame Award. Nel 2003 è stato inserito al 12° posto nella classifica dei 500 migliori album di ogni tempo della rivista Rolling Stone.L'album fu registrato in due sessioni allo studio della Columbia Records situato sulla 30ª strada a New York; il 2 marzo furono incise le tracce So What, Freddie Freeloader, e Blue in Green, che costituiscono la facciata A dell'LP originale, e il 22 aprile Flamenco Sketches e All Blues, la seconda facciata del disco.[8][10] La produzione fu curata da Teo Macero, che aveva già prodotto i precedenti due album di Davis, e da Irving Townsend.",
         "year": 1959
     },
     {
@@ -18,6 +20,7 @@
         "title": "The Big Beat",
         "artist": "Art Blakey & The Jazz Messengers",
         "cover": "https://upload.wikimedia.org/wikipedia/en/a/a6/Art_big_beat.jpg" ,
+        "description": "The Big Beat is an album by Art Blakey and his group The Jazz Messengers recorded on March 6, 1960 and released on the Blue Note label. It features performances by Blakey with Lee Morgan, Wayne Shorter, Bobby Timmons, and Jymie Merritt.",
         "year": 1960
     },
     {
@@ -25,6 +28,7 @@
         "title": "Head Hunters",
         "artist": "Herbie Hancock",
         "cover": "https://e.snmc.io/i/1200/s/ab1a1334e2e66518c1721bd1e159b031/3620061" ,
+        "description": "Head Hunters è il dodicesimo album in studio del musicista statunitense Herbie Hancock, pubblicato il 13 ottobre 1973. Fu un album cruciale e particolarmente significativo nella carriera del jazzista.Per la registrazione dell'album, Hancock decise di formare una nuova band, chiamata The Headhunters. Dei componenti del gruppo, solo il sassofonista e flautista Bennie Maupin proveniva dalla precedente formazione e le parti di sintetizzatore sono tutte suonate da Hancock stesso. L'assenza della chitarra è dovuta alla decisione di utilizzare principalmente il clavinet, strumento tipico della musica reggae ma spesso accostato al funk.",
         "year": 1973
     },
     {
@@ -32,6 +36,7 @@
         "title": "Strange Fruit",
         "artist": "Nina Simone",
         "cover": "https://www.thevinylfactory.com/wp-content/uploads/2015/09/Strange-fruit.jpg" ,
+        "description": "Strange Fruit (in inglese Strano frutto) è una canzone scritta e composta da Abel Meeropol e portata al successo dalla cantante jazz statunitense Billie Holiday, che la eseguì per la prima volta nel nightclub Café Society di New York nel 1939; nel mese di aprile venne pubblicato nel 78 giri Strange Fruit/Fine and Mellow.Il brano, la cui musica e il testo sono di Abel Meeropol, è una forte denuncia contro i linciaggi dei neri nel sud degli Stati Uniti e una delle prime espressioni del movimento per i diritti civili: l'espressione Strange Fruit è diventata un simbolo per 'linciaggio'.",
         "year": 1965
     },
     {
@@ -39,6 +44,7 @@
         "title": "Underground",
         "artist": "Thelonious Monk",
         "cover": "https://i.discogs.com/70CQy31jOoEadTe60QEYTOTT2eJnvOv1o-XKDyw4kgQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MzEz/MTAtMTMwOTE3MDM5/OC5qcGVn.jpeg" ,
+        "description": "Underground è un album discografico del musicista jazz Thelonious Monk, pubblicato nel 1968 dalla Columbia Records.L'album è celebre per la sua immagine di copertina, un disegno che mostra Monk (seduto al pianoforte, con un mitra a tracolla) vestito da partigiano della Resistenza francese durante la seconda guerra mondiale, con sullo sfondo un ufficiale nazista legato a una sedia.",
         "year": 1967
     },
     {
@@ -46,6 +52,7 @@
         "title": "Jaco Pastorious",
         "artist": "Jaco Pastorious",
         "cover": "https://i1.sndcdn.com/artworks-000588113234-0d9qx7-t500x500.jpg" ,
+        "description": "Jaco Pastorius è l'album di esordio (1976) dell'omonimo bassista.L'album inizia con un celebre standard di Charlie Parker, Donna Lee, suonata con l'accompagnamento esclusivamente delle congas di Don Alias. Il pezzo è stato registrato in un'unica take in presa diretta e quindi al primo tentativo",
         "year": 1976
     },
     {
@@ -53,7 +60,16 @@
         "title": "Getz/Gilberto",
         "artist": "Sten Getz & Joao Gilberto feat. Antonio Carlos Jobim",
         "cover": "https://fiu-original.b-cdn.net/fontsinuse.com/use-images/128/128631/128631.jpeg?filename=1000x1000bb-60%20(3).jpg" ,
+        "description": "Getz/Gilberto è un album di Stan Getz e João Gilberto, pubblicato nel marzo del 1964 dalla Verve.Dopo l'affermazione straordinaria dell'album Jazz Samba, del 1962, e del singolo Desafinado, il sassofonista Stan Getz decise di proseguire, sotto l'egida della Verve Records e del produttore Creed Taylor, la realizzazione di nuovi dischi nel genere da lui lanciato, affiancandosi ai migliori musicisti brasiliani.  ",
         "year": 1964
+    },
+    {
+        "id": 9,
+        "title": "Time Out",
+        "artist": "The Dave Burbeck Quartet",
+        "cover": "https://i0.wp.com/musicaficionado.blog/wp-content/uploads/2019/12/Dave-Brubeck-Time-Out.jpg?resize=720%2C720&ssl=1" ,
+        "description": "Time Out è un album del The Dave Brubeck Quartet, pubblicato nel 1959 dalla Columbia Records.Il disco è famoso per essere stato il primo album jazz a superare il milione di copie vendute e per aver portato il jazz ad un vasto pubblico.[2] Time Out presenta dei tempi musicali inconsueti per gli standard del jazz del periodo (tempi da valzer, 9/8 o 5/4).",
+        "year": 1959
     }
-    
+   
 ]

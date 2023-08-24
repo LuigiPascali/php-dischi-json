@@ -9,8 +9,17 @@
 :root {
     /* Color Palette */
     
-    --light_color:#FFFFFF ;
-    --dark_color: #0A0A0A ;
+    --primary_body_bg:#0D5D56;
+    --secondary_body_bg: #1E8D82;
+    --tertiary_body_bg: #38BEBB;
+    --primary_card_bg:#EBEBEB;
+    --secondary_card_bg: #D5D5D5;
+    --tertiary_card_bg: #C0C0C0;
 
 }
 
+body {background: linear-gradient(135deg, var(--primary_body_bg), var(--secondary_body_bg), var(--tertiary_body_bg));}
+
+.card {background: linear-gradient(135deg, var(--primary_card_bg), var(--secondary_card_bg), var(--tertiary_card_bg) );transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;}
+
+.card:hover {transform: translateY(-5px);box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);}

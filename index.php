@@ -41,24 +41,49 @@
 
     <body>
        
-        <!-- ! Header Start -->
-        <header>
-           
-        </header>
-
         <!-- ! Main Start -->
         <main>
 
-            <div id="app">
+            <div id="app" class="container mt-4" >
+
+                <h1 class="text-center mb-4">
+                    My Favourite Jazz Masterpiece Albums
+                </h1>
+
+                <div class="row">
+
+                    <div class="col-md-4 mb-4" v-for="disc in discs" :key="disc.id">
+
+                        <div class="card h-100 shadow">
+
+                            <img :src="disc.cover" alt="album_cover" class="card-img-top p-2 mx-auto">
+
+                            <div class="card-body">
+
+                                <h3 class="card-title">
+                                    {{ disc.title }}
+                                </h3>
+
+                                <h5 class="card-text">
+                                    Artista: {{ disc.artist }} 
+                                </h5>
+                                
+                                <p class="card-text">
+                                    Anno: {{ disc.year }}
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
                 
             </div>
                                     
         </main>
-
-        <!-- ! Footer Start -->
-        <footer>
-
-        </footer>
 
         <!-- ! Java Script -->
         <script type="text/javascript" src="./assets/app.js"></script>
