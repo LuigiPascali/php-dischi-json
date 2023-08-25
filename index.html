@@ -54,7 +54,7 @@
 
                     <div class="col-md-4 mb-4" v-for="disc in discs" :key="disc.id">
 
-                        <div class="card h-100 shadow">
+                        <div class="card h-100 shadow" @click="showDiscDetails(disc)">
 
                             <img :src="disc.cover" alt="album_cover" class="card-img-top p-2 mx-auto">
 
@@ -80,7 +80,26 @@
 
                 </div>
 
-                
+                <div class="overlay" v-if="selectedDisc">
+
+                    <div class="overlay-content bg-light">
+                        
+                        <button type="button" class="close close-overlay" @click="selectedDisc = null" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+
+                        <div class="card mt-3">
+
+                            <div class="card-body">
+                                <p class="card-text">{{ selectedDisc }}</p>
+                            </div>
+
+                        </div>
+
+                    </div>
+                    
+                </div>
+
             </div>
                                     
         </main>

@@ -20,6 +20,6 @@
 
 body {background: linear-gradient(135deg, var(--primary_body_bg), var(--secondary_body_bg), var(--tertiary_body_bg));}
 
-.card {background: linear-gradient(135deg, var(--primary_card_bg), var(--secondary_card_bg), var(--tertiary_card_bg) );transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;}
+.card {background: linear-gradient(135deg, var(--primary_card_bg), var(--secondary_card_bg), var(--tertiary_card_bg));transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;}
 
 .card:hover {transform: translateY(-5px);box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);}
